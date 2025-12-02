@@ -1,5 +1,5 @@
-let vitorias = 21
-let derrotas = 10
+let vitorias = 90
+let derrotas = 30
 
 let contador = 0
 
